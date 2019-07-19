@@ -1,4 +1,4 @@
-package selfproject;
+package spark.starter;
 
 import spark.Spark;
 
