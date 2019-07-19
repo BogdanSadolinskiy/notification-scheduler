@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>selfproject</groupId>
-    <artifactId>spark.hello</artifactId>
+    <artifactId>spark.starter</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>spark.hello</name>
+    <name>hello</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
